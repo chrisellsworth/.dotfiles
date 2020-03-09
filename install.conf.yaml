@@ -9,6 +9,7 @@
 - link:
     ~/.Brewfile:
     ~/.gitconfig:
+    ~/.p10k.zsh:
     ~/.vimrc:
     ~/.zshrc:
 
