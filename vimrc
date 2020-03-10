@@ -6,5 +6,6 @@ set cursorcolumn
 set laststatus=2
 set ignorecase
 set smartcase
+set hlsearch
 syntax on
 
