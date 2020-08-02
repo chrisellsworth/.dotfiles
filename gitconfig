@@ -1,0 +1,6 @@
+[alias]
+    lol = log --oneline --graph --decorate --pretty=oneline
+[core]
+    excludesfile = ~/.gitignore
+[include]
+    path = ~/.gitconfig.inc
